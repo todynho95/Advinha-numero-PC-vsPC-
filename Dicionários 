@@ -1,0 +1,63 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOXNqWOkz4R95JJoDpb5jAT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/todynho95/Advinha-numero-PC-vsPC-/blob/main/Dicion%C3%A1rios%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 5,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "LosfMxahYdbG",
+        "outputId": "65d08bb6-5485-40a9-c3b5-82c62f058fd8"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "ola mundo\n"
+          ]
+        }
+      ],
+      "source": [
+        "mensagem = {'m1':{'m2': 'ola mundo'}}\n",
+        "print(mensagem['m1']['m2'])"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "q8DlOfJdZfXa"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
